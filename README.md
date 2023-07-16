@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=bellti9er&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" style="width: 41%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=bellti9er&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub Stats" style="width: 41%;">
   </a>
   <a href="https://github.com/bellti9er/github-stats-transparent">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellti9er&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" style="width: 31%;">
