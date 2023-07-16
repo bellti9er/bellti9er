@@ -84,3 +84,4 @@
 
 <!------------------------------------------------------------------------------------------------------>
 
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:8FBC8F,100:006400&height=140&animation=fadeIn" width="100%"/>
