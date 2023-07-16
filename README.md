@@ -2,6 +2,11 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8FBC8F,100:006400&height=140&section=header&text=👋%20Hi,%20I’m%20Jongbeom&fontSize=20&animation=fadeIn&fontAlignY=36&fontColor=ffffff" alt="header" style="width: 100%;" />
 </p>
 
+- 🤔   Exploring new technologies and developing software solutions and studying.
+- 📚   Learning more about Cloud Architecture, Systems Design and DevOps.
+
+</br>
+
 <!------------------------------------------------------------------------------------------------------>
 
 <div align=center><h2>Experiences</h2></div>
