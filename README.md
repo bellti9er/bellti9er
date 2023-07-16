@@ -11,7 +11,6 @@
   </ul>
 
 </br>
-</br>
 
 <!------------------------------------------------------------------------------------------------------>
 
@@ -21,6 +20,7 @@
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue">
+    </br>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
     <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white">
     <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green">
@@ -52,6 +52,7 @@
 
 <!------------------------------------------------------------------------------------------------------>
 
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=bellti9er&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub Stats" style="width: 41%;">
@@ -67,11 +68,14 @@
 </br>
 </br>
 
+
 <!------------------------------------------------------------------------------------------------------>
 
+<!----
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Profile 3D Contrib" style="width: 500px;">
 </p>
+----->
 
 <!------------------------------------------------------------------------------------------------------>
 
