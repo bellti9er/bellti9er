@@ -3,8 +3,19 @@
 </p>
 
 - 🤔   Exploring new technologies and developing software solutions and studying.
-- 📚   Learning more about Cloud Architecture, Systems Design and DevOps.
+- 📚     Learning more about Cloud Architecture, Systems Design and DevOps.
 
+</br>
+</br>
+
+### 🔥 things currently or will study (updated at 2023.08.09)
+
+- Linux 시스템 관리 (Virtual Box, docker)
+- Kubernetes (로컬, EKS를 활용한 클라우드 기반)
+- Grafana + Prometheus 구축 및 설정 (+ ELK 스택)
+- Nginx (웹서버, 리버스 프록시, 로드밸런서)
+
+</br>
 </br>
 
 <!------------------------------------------------------------------------------------------------------>
@@ -65,9 +76,9 @@
   <a href="https://github.com/bellti9er/github-stats-transparent">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellti9er&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" style="width: 31%;">
   </a>
-  <a href="https://github.com/bellti9er/github-readme-activity-graph">
+<!--   <a href="https://github.com/bellti9er/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=bellti9er&theme=react-dark&bg_color=282828&hide_border=true&line=8ec07c&color=d79921&point=fabd2f" alt="Ashutosh's github activity graph" width="72%">
-  </a>
+  </a> -->
 </p>
 
 </br>
