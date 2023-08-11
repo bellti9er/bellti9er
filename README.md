@@ -14,6 +14,7 @@
 - Kubernetes (로컬, EKS를 활용한 클라우드 기반)
 - Grafana + Prometheus 구축 및 설정 (+ ELK 스택)
 - Nginx (웹서버, 리버스 프록시, 로드밸런서)
+- AWS Associate Tier 자격증 취득 (~2023)
 
 </br>
 </br>
