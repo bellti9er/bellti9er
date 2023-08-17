@@ -53,7 +53,6 @@
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white">
-    <!-- <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"> -->
     </br>
     </br>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white">
@@ -62,7 +61,14 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white">
     <!-- <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"> -->
+    </br>
+    </br>
+    <div align=center><h4>🏃Running to get used to it🏃‍♂️</h4></div>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white">
+    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
   </div>
+    
 </div>
 
 </br>
