@@ -63,7 +63,7 @@
     <!-- <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"> -->
     </br>
     </br>
-    <div align=center><h4>🏃Running to get used to it🏃‍♂️</h4></div>
+    <div align=center><h4>🏃Running to get used to it more than now🏃‍♂️</h4></div>
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white">
     <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
