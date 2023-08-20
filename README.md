@@ -66,6 +66,7 @@
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white">
     <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
   </div>
     
 </div>
