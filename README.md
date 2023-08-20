@@ -8,7 +8,7 @@
 </br>
 </br>
 
-### 🔥 things currently or will study (updated at 2023.08.09)
+### 🔥 things currently or will study (updated at recently..)
 
 - Linux 시스템 관리 (Virtual Box, docker)
 - Kubernetes (로컬, EKS를 활용한 클라우드 기반)
