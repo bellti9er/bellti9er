@@ -14,7 +14,8 @@
 - Kubernetes (로컬, EKS를 활용한 클라우드 기반)
 - Grafana + Prometheus 구축 및 설정 (+ ELK 스택)
 - AWS Associate Tier 자격증 취득 (~2023)
-- Go language
+- Java, Spring (going to start soon!)
+
 
 </br>
 </br>
@@ -63,7 +64,9 @@
     </br>
     </br>
     <div align=center><h4>🏃Running to get used to it more than now🏃‍♂️</h4></div>
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white">
+<!--     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"> -->
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
