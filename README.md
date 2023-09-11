@@ -3,7 +3,7 @@
 </p>
 
 - 🤔   Exploring new technologies and developing software solutions and studying.
-- 📚     Learning more about Cloud Architecture, Systems Design and DevOps.
+<!----------------------------------------------------- - 📚     Learning more about Cloud Architecture, Systems Design and DevOps. ---->
 
 </br>
 </br>
