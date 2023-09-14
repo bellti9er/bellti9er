@@ -88,9 +88,9 @@
   <a href="https://github.com/bellti9er/github-stats-transparent">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellti9er&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" style="width: 31%;">
   </a>
-<!--   <a href="https://github.com/bellti9er/github-readme-activity-graph">
+  <a href="https://github.com/bellti9er/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=bellti9er&theme=react-dark&bg_color=282828&hide_border=true&line=8ec07c&color=d79921&point=fabd2f" alt="Ashutosh's github activity graph" width="72%">
-  </a> -->
+  </a>
 </p>
 
 </br>
