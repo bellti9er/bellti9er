@@ -8,11 +8,11 @@
 </br>
 </br>
 
-### 🔥 things currently or will study (updated at recently..)
+### 🔥 things will study
 
+- AWS Associate Tier 자격증 취득 (~2024 Q1)
 - Linux 시스템 관리 (Virtual Box, docker)
-- Kubernetes (로컬, EKS를 활용한 클라우드 기반)
-- AWS Associate Tier 자격증 취득 (~2023)
+- Kubernetes (EKS)
 <!----------------------------------------------------- Grafana + Prometheus 구축 및 설정 (+ ELK 스택)--->
 <!----------------------------------------------------- Java, Spring (going to start soon!)---->
 
@@ -40,6 +40,7 @@
     <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue">
     </br>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white">
     <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white">
     <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green">
     <img src="https://img.shields.io/badge/GraphQl-E10098?style=flat&logo=graphql&logoColor=white">
@@ -47,6 +48,7 @@
     </br>
     </br>
     <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
     </br>
     </br>
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
@@ -55,11 +57,14 @@
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white">
     </br>
     </br>
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white">
+    </br>
+    </br>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white">
     <!-- <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"> -->
     </br>
     </br>
@@ -67,10 +72,9 @@
 <!--     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"> -->
 <!--     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"> -->
 <!--     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white"> -->
-    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white">
     <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
-<!--     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"> -->
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
   </div>
     
 </div>
